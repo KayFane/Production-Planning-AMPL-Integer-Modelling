@@ -1,0 +1,7 @@
+param T := 6;
+
+param onhand0 := 250;
+param backorder0 := 0;
+param worker0 := 20;
+
+param demand := 1 500 	2 700	3 1200 	4 1300	5 900	6 800;
